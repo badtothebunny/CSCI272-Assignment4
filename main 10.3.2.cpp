@@ -1,7 +1,7 @@
 //This program deals with accounts for Guardian Bank. It can read from files,
 //debit and credit money, search for existing accounts, and displays information.
 //This program utilizes classes.
-//Programmer: Maria Psomas
+//Programmer: Badtothebunny
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -75,3 +75,4 @@ int main(int argc, char** argv) {
 		}
 	return 0;
 }
+
