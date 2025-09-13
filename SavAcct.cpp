@@ -1,5 +1,5 @@
 #include "SavAcct.h"
-//Declaration section- written by Maria Psomas 
+//Declaration section- written by Badtothebunny 
 SavAcct::SavAcct()	//Default constructor initializes 
 	{				//everything with 0.
 		name=" ";
@@ -67,3 +67,4 @@ void SavAcct::debit(float subtract)
 	{
 		balance=balance-subtract;
 	}
+
