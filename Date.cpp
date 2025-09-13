@@ -1,6 +1,7 @@
 #include "Date.h"
 
 //NOT WRITTEN BY BADTOTHEBUNNY
+//Provided by Professor
 
 Date::Date()   // When called, it creates an object of this class and
 	{                 // initializes the data members of the object with zero.
@@ -45,4 +46,5 @@ void Date::copyDate(Date &d1)
 		day=d1.day;
 		year=d1.year;
 	}
+
 
